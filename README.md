@@ -16,10 +16,12 @@
  
 I am 21 years old and currently studying for a master's degree in Informational Technology at KTH, Royal Institute of Technology.
 
-* 🐝 One of Swedens largest beekeepers using traditional methods.
+* 🐝 One of Swedens largest beekeeper using traditional methods.
+* <img src="https://media.giphy.com/media/8BlByFsU4FZJ41AJpd/giphy.gif" width="22px"/> Admin of the swedish Dota 2 discord community Dota 2 Sverige 
 
-* 📫 How to reach me: pontushh@kth.se
+### Contact:
 
-  </div>
-  
+* 📫 Mail: pontushh@kth.se
+*  <img src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" width="24px"/> Discord: Tjeckizz#6813
+ 
  
