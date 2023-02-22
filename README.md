@@ -14,9 +14,9 @@
  
 ### About me:
  
-I am 21 years old and currently studying for a master's degree in Informational Technology at KTH, Royal Institute of Technology.
+I am 21 years old and currently studying for a Master of Science in Informational Technology at KTH, Royal Institute of Technology.
 
-* 🐝 One of Swedens largest beekeeper using traditional methods.
+* 🐝 One of Swedens largest beekeeper using traditional methods
 * <img src="https://media.giphy.com/media/8BlByFsU4FZJ41AJpd/giphy.gif" width="22px"/> Admin of the swedish Dota 2 discord community Dota 2 Sverige 
 
 ### Contact:
