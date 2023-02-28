@@ -23,6 +23,7 @@ I am 21 years old and currently studying for a Master of Science in Informationa
 
 *  📫 Mail: pontushh@kth.se
 *  <img src="https://user-images.githubusercontent.com/71332682/221450606-51dad7de-5b65-4cd6-bba5-d5359f2aa90c.png" width="20px"/> Discord: Tjeckizz#6813
+*  <img src="https://user-images.githubusercontent.com/71332682/221995603-07c0b262-08c5-4a0b-9e8f-c32bd7df461e.png" width="14px"/> Linkedin: https://www.linkedin.com/in/pontushector
 
 ### Languages and systems:
 <a href="https://www.java.com" rel="nofollow"> <img src="https://user-images.githubusercontent.com/71332682/221434782-828ac235-59b8-46d2-9bad-c491ed5b54ae.png" width="30"/> </a> <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30"> </a> <a href="https://www.swi-prolog.org/" rel="nofollow"> <img src="https://www.swi-prolog.org/icons/swipl.png" width="35"> </a> <a href="https://www.linux.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/71332682/221436036-af2890a4-feba-42e0-88b0-84565d2db505.png" width="30"> </a>
